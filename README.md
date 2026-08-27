@@ -1,4 +1,4 @@
-# Cải thiện độ tin cậy của nhận thức làn đường dựa trên AI cho các hệ thống nhúng hạn chế tài nguyên
+# Cải thiện độ tin cậy của nhận thức làn đường bằng AI cho các hệ thống nhúng hạn chế tài nguyên
 
 **Ứng dụng cho robot giao hàng tự hành**
 
