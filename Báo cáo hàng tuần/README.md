@@ -11,8 +11,8 @@ Thư mục này lưu trữ báo cáo tiến độ hàng tuần của đồ án:
 | Tuần | Nội dung chính | Trạng thái |
 |---|---|---|
 | [Week 1](./week1/) | Khảo sát đề tài và xây dựng ý tưởng hệ thống ban đầu | ✅ Hoàn thành |
-| Week 2 | Khảo sát bài báo và xác định hướng nghiên cứu | ⬜ Chưa cập nhật |
-| Week 3 | Triển khai và benchmark mô hình trên Raspberry Pi | ⬜ Chưa cập nhật |
+| Week 2 | Khảo sát bài báo và xác định hướng nghiên cứu | ✅ Hoàn thành |
+| Week 3 | Triển khai và benchmark mô hình trên Raspberry Pi | ✅ Hoàn thành |
 
 ## Cấu trúc báo cáo
 
