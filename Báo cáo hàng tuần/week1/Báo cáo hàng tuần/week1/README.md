@@ -71,7 +71,7 @@ PWM cho servo và ESC.
 ## 4. Kết quả đạt được
 
 Kết quả chính của Week 1 là hình thành được kiến trúc tổng thể ban đầu
-và xác định tính khả thi của mô hình xe RC tỷ lệ 1/10.
+và xác định tính khả thi của mô hình xe.
 
 Đề tài được định hướng ở mức proof-of-concept, tập trung vào việc chứng
 minh các khối chức năng thay vì xây dựng một xe tự hành thương mại hoàn chỉnh.
