@@ -64,20 +64,3 @@ Tài nguyên sử dụng
 +
 Công suất tiêu thụ
 ```
-
-## Các bước tiếp theo
-
-```text
-Ảnh tĩnh
-   ↓
-Video quay sẵn
-   ↓
-Realtime camera
-   ↓
-Ego-Lane / Virtual Ego-Lane
-   ↓
-Center Path
-   ↓
-Điều khiển xe RC
-```
-
