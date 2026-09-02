@@ -1,9 +1,6 @@
-# WEEK 2 – Khảo sát nghiên cứu và xác định hướng AI-Based Lane Perception
+# WEEK 2 – Related work
 
 ## 1. Mục tiêu tuần
-
-Từ ý tưởng hệ thống tổng thể của Week 1, Week 2 tập trung thu hẹp phạm vi
-nghiên cứu và xác định hướng có giá trị học thuật rõ ràng hơn.
 
 Hướng nghiên cứu được lựa chọn:
 
